@@ -6,7 +6,15 @@
   <img src="https://komarev.com/ghpvc/?username=Andrazx23&color=00d4ff&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Andrazx23?style=for-the-badge&color=00d4ff" />
   <img src="https://img.shields.io/github/stars/Andrazx23?style=for-the-badge&color=00d4ff" />
-  <img src="https://img.shields.io/github/repos/Andrazx23?style=for-the-badge&color=00d4ff" />
+  <img src="https://img.shields.io/badge/Repos-12-00d4ff?style=for-the-badge" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andrazx23&theme=onedark&no-frame=true&column=7" alt="Trophy" />
 </p>
 
 ---
