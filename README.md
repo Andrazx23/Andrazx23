@@ -12,8 +12,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andrazx23&show_icons=true&theme=tokyonight&bg_color=1a1b26&border_color=00d4ff&title_color=00d4ff&icon_color=ff79c6&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrazx23&layout=compact&theme=tokyonight&bg_color=1a1b26&border_color=00d4ff&title_color=00d4ff&icon_color=50fa7b" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrazx23&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&icon_color=FF79C6&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrazx23&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&icon_color=50FA7B" alt="Top Languages" />
 </p>
 
 ---
@@ -62,10 +65,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=60&section=footer" />
-</p>
 
 <p align="center">
   <sub><strong>Made with ❤️ by <a href="https://github.com/Andrazx23">Andra</a></strong></sub>
