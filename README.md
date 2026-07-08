@@ -5,14 +5,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Andrazx23&color=00d4ff&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Andrazx23?style=for-the-badge&color=00d4ff" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://ghstats.vercel.app/api?username=Andrazx23&theme=tokyo-night&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&icon_color=FF79C6" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/stars/Andrazx23?style=for-the-badge&color=00d4ff" />
+  <img src="https://img.shields.io/github/repos/Andrazx23?style=for-the-badge&color=00d4ff" />
 </p>
 
 ---
