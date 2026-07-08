@@ -12,11 +12,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrazx23&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&icon_color=FF79C6&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrazx23&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&icon_color=50FA7B" alt="Top Languages" />
+  <img src="https://ghstats.vercel.app/api?username=Andrazx23&theme=tokyo-night&bg_color=0D1117&border_color=00D9FF&title_color=00D9FF&icon_color=FF79C6" alt="GitHub Stats" />
 </p>
 
 ---
