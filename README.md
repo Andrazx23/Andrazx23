@@ -11,14 +11,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andrazx23&theme=onedark&no-frame=true&column=7" alt="Trophy" />
-</p>
-
----
-
 ## 🛠️ Technologies
 
 ### 💻 Programming Languages
