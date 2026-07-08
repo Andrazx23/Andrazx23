@@ -11,11 +11,9 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrazx23&theme=tokyo-night&border=00D9FF&fire=FF79C6&ring=00D9FF" alt="GitHub Streak" />
-</p>
+![Andra's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Andrazx23&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=FF79C6&point=50FA7B&area=true&hide_border=false)
 
 ---
 
