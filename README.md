@@ -11,6 +11,14 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrazx23&theme=tokyo-night&border=00D9FF&fire=FF79C6&ring=00D9FF" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🛠️ Technologies
 
 ### 💻 Programming Languages
