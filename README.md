@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="font-size: 70px; font-weight: bold; background: linear-gradient(to right, #00D9FF, #FF79C6, #50FA7B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Andra</span>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&gradientCenterColor=00d4ff&gradientEdgeColor=ff79c6&height=130&section=header&text=Andra&fontSize=80&animation=blink" alt="Andra" />
 </h1>
 
 <p align="center">
